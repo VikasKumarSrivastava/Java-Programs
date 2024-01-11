@@ -27,7 +27,9 @@ public class Main {
 
     System.out.println(false);
   }
+  
 }
+
 //input:(a + b) + ((c + d))
 //output: true
 //TC O(N)
