@@ -6,7 +6,5 @@ public class GameLauncher {
 		// TODO Auto-generated method stub
 		GuessGame gg = new GuessGame();
 		gg.startGame();
-
 	}
-
 }
