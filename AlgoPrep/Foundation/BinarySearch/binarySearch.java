@@ -3,7 +3,8 @@ import java.util.*;
 
 public class Solution {
     
-    public static boolean search(int arr[],int k){
+    public static boolean search(int arr[],int k)
+    {
         int lo=0;
         int hi = arr.length-1;
         while(lo<=hi){
