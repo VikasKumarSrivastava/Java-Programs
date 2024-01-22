@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 public class Solution {
-    
     public static boolean search(int arr[],int k)
     {
         int lo=0;
