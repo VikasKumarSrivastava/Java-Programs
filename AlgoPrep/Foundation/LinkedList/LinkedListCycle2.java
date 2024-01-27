@@ -8,6 +8,7 @@
  *         val = x;
  *         next = null;
  *     }
+
  * }
  */
 public class Solution {
