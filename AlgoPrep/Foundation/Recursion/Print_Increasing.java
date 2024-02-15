@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 public class Solution {
-
     public static void printInc(int n){
         if(n==0)
             return;
