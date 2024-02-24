@@ -1,5 +1,4 @@
-public class Employee implements Comparable<Employee> {
-	
+public class Employee implements Comparable<Employee> {	
 	String name;
 	int age;
 	String country;
