@@ -1,8 +1,7 @@
 public class Employee implements Comparable<Employee> {	
 	String name;
 	int age;
-	String country;
-	
+	String country;	
 	public Employee(String name, int age, String country) {
 		super();
 		this.name = name;
