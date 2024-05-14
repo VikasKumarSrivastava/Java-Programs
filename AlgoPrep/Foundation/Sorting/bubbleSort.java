@@ -1,8 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
-    
+public class Solution {   
     public static void bubbleSort(int arr[],int n){
         for(int i =0;i<=n-2;i++){
             for(int j=0;j<=n-2-i;j++){
