@@ -1,5 +1,3 @@
-
-
 public class Employee implements Comparable<Employee> {	
 	String name;
 	int age;
