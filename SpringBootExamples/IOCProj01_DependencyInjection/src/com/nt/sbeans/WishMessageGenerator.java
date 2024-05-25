@@ -1,5 +1,4 @@
 package com.nt.sbeans;
-
 import java.time.LocalDateTime;
 
 import org.springframework.beans.factory.annotation.Autowired;
