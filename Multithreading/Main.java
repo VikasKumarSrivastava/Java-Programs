@@ -1,4 +1,4 @@
-package multithreading_examples;
+package multithreading_examples
 // 1st Way of defining thread
 class Mythread extends Thread{
     public void run(){
