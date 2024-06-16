@@ -1,6 +1,5 @@
 // Given N array elements and Q queries. For every query find frequency of element in array.
 // Input Format
-
 // First line contains 2 integers N, M denoting size of the array and the number of queries.
 // Second line contains the elements of the array.
 // Third line contains M elements representin queries.
