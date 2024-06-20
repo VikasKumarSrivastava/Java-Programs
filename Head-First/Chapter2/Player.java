@@ -1,5 +1,4 @@
 package demopkg2;
-
 public class Player {
 
 	int number;
