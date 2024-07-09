@@ -1,5 +1,4 @@
 //Find the first non-repeating element in a given array arr of N integers.
-
 //GFG Link: https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1
 import java.io.*;
 import java.util.*;
