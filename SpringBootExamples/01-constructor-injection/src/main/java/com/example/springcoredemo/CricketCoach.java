@@ -1,5 +1,4 @@
 package com.example.springcoredemo;
-
 import org.springframework.stereotype.Component;
 
 @Component
