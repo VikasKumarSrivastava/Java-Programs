@@ -1,5 +1,6 @@
 
 package demopkg2;
+
 public class GuessGame {
 	Player p1;
 	Player p2;
